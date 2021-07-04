@@ -21,4 +21,4 @@ CameraX의 안드로이드 지원 버전이 5.0 이상이라 4.4 프로젝트에
 프로토타입용 프로젝트이므로 추후 실제 앱 개발 시 다시 4.4 환경에서 개발해야 합니다.
 
 현재 CameraX를 사용해 5.0 버전에서 개발중이며 [WithMe5.0](https://github.com/WhiteKr/WithMe5.0) 깃허브에서 확인할 수 있습니다.\
-앱에 적용하기 위해 연습한 기술들([CameraX](https://github.com/WhiteKr/CameraX), [MultiPart](https://github.com/WhiteKr/MultiPart) 등) 또한 다른 Repositories에서 확인할 수 있습니다.
+앱에 적용하기 위해 연습한 기술들([CameraX](https://github.com/WhiteKr/CameraX) 등) 또한 다른 Repositories에서 확인할 수 있습니다.
