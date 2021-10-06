@@ -22,3 +22,9 @@ CameraX의 안드로이드 지원 버전이 5.0 이상이라 4.4 프로젝트에
 
 현재 CameraX를 사용해 5.0 버전에서 개발중이며 [WithMe5.0](https://github.com/WhiteKr/WithMe5.0) 깃허브에서 확인할 수 있습니다.\
 앱에 적용하기 위해 연습한 기술들([CameraX](https://github.com/WhiteKr/CameraX) 등) 또한 다른 Repositories에서 확인할 수 있습니다.
+
+
+## 10.01
+NUGU 캔들과 함께 사용하는 WithMe_NUGU 프로젝트가 끝났습니다.\
+이건 원래 위 프로젝트를 위한 repository였는데, 새로 만든 비공개 repository에서 작업을 끝냈기 때문에 NUGU가 없는 버전을 저장하는 용도로 사용하려 합니다.\
+목적과 사용법은 이전과 크게 바뀌지 않되, 캔들 없이 안드로이드 기기와 인터넷만 있으면 어디서든 사용 가능하게 개발하는 것이 우선 목표입니다.
